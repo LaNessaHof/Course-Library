@@ -22,6 +22,6 @@ To add a new course to the library:
 
    ```html
    <div class="course">
-       <img src="https://LaNessaHof.github.io/course-repository-name/image.png" alt="Course Name">
-       <a href="https://yourusername.github.io/course-repository-name" target="_blank">Start Course Name</a>
+      <img src="https://raw.githubusercontent.com/LaNessaHof/Security-Awareness-Course/main/assets/abLfeG/4-01.png" alt="Security Awareness Course">
+       <a href="https://LaNessaHof.github.io/Security-Awareness-Course" target="_blank">Start Security Awareness Course</a>
    </div>
